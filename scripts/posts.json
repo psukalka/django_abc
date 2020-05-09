@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Flask vs Django",
+    "content": "Flask is a light weight server, Django is a beast",
+    "author": 1
+  },
+  {
+    "title": "Django vs Spring Boot",
+    "content": "Both seem similar. Django is in python while Spring Boot is in Java",
+    "author": 1
+  },
+  {
+    "title": "Why do we need moon ?",
+    "content": "To maintain balance on Earth. Atmosphere would be at extremes otherwise.",
+    "author": 6
+  },
+  {
+    "title": "Indian Astronomy",
+    "content": "Amazing science forgotten in history.",
+    "author": 5
+  },
+  {
+    "title": "Discovery of Photosynthesis",
+    "content": "Amazing journey in answering the question how do plants get their weight and how they generate food. Journey of 200 years wrapped in a chapter of book.",
+    "author": 6
+  },
+  {
+    "title": "Cosmic Ladder",
+    "content": "Makes one realise what a tiny spec they are in this creation.",
+    "author": 5
+  }
+]
